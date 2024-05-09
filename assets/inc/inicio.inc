@@ -7,7 +7,7 @@
                             <p style="text-align: center;">
                                 Atención: <a href="mailto:dirac.procesproduc@utfv.edu.mx"><b>dirac.procesproduc@utfv.edu.mx</b></a>
                                 <br>
-                                Tel: <a href="tel:+525526493146"><b>55-2649-3146 Ext: 255</b></a> Whats: <a href="https://chat.whatsapp.com/5621287081"><b>56-21-28-70-81</b></a>
+                                Tel: <a href="tel:+525526493146"><b>55-2649-3146 Ext: 255</b></a> Whats: <a href="https://api.whatsapp.com/send?phone=5621287081"><b>56-21-28-70-81</b></a>
                                 
                             </p>
                             <br>
