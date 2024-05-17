@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">Listas de Grupo 2024-2</h1>
                             <p class="py-3 text-center">
-                                Actualización 07/05/2024 21:20 p.m.
+                                Actualización 17/05/2024 16:05 p.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-6 col-12">
