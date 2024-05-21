@@ -7,7 +7,7 @@
                                 Actualización 17/05/2024 16:05 p.m.
                             </p>
                             <div class="row">
-                                <div class="col-md-6 col-12">
+                                <!-- <div class="col-md-6 col-12">
                                     <table class="table">
                                         <thead>
                                             <tr>
@@ -317,6 +317,32 @@
                                                 </td>
                                             </tr>
                                             
+                                        </tbody>
+                                    </table>
+                                </div> -->
+
+
+                                <div class="col-md-6 col-12">
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th>Listas Generales 2024-2</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/1kPYy7wF4Fnz5DQCfqlMgrI8PWAFXlrmb/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                            <i class="fontGrande bx bxs-file-pdf"></i>
+                                                            Listas DDA y LDDPA
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>  
+
                                         </tbody>
                                     </table>
                                 </div>
