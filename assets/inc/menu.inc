@@ -38,7 +38,7 @@
                         </a>
                     </li>                 
                 </ul>
-                <!-- <ul class="list-unstyled components">
+                <ul class="list-unstyled components">
                     <li>
                         <a href="menu.aspx?id=especiales" class="py-3">
                             <i class="bx bx-list-ul mx-2"></i>
@@ -46,7 +46,7 @@
                         </a>
                     </li>                 
                 </ul>
-                <ul class="list-unstyled components">
+                <!-- <ul class="list-unstyled components">
                     <li>
                         <a href="menu.aspx?id=documentos" class="py-3">
                             <i class="bx bx-list-ul mx-2"></i>
