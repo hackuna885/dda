@@ -2,7 +2,7 @@
 
                         <div class="col-12 rounded shadow-sm rounded pb-5 mt-5" style="text-align: center;">
                             <h1>DIVISIÓN ACADÉMICA DE</h1>
-                            <h1>Procesos de Producción</h1>
+                            <h1>Diseño, Redes e Inteligencia Artificial</h1>
                             <br>
                             <p style="text-align: center;">
                                 Atención: <a href="mailto:dirac.procesproduc@utfv.edu.mx"><b>dirac.procesproduc@utfv.edu.mx</b></a>
