@@ -57,7 +57,7 @@
                                                         <a href="https://drive.google.com/file/d/1WyA2Xl4f9AlP-sMwJtK73YiRg4wd2MXt/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                LAB DISEÑO PC
+                                                                LAB DISEÑO PC (PA)
                                                             </div>
                                                         </a>
                                                     </div>
@@ -69,7 +69,43 @@
                                                         <a href="https://drive.google.com/file/d/1Q--pnNlpX_XC3yB2YV_lhd0xHPRkVR7U/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                LAB INF BASICA PC
+                                                                LAB INF BASICA PC (PA)
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/18UMScDH9NbqVEZ11m4JviAaItu8WWY9i/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                                <i class="fontGrande bx bxs-file-pdf"></i>
+                                                                LAB M102 (PA)
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/1IUK2QhaiosIhzksIOBBPax4ADnFGtvp9/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                                <i class="fontGrande bx bxs-file-pdf"></i>
+                                                                LAB M106 (PA)
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/1a_1WEnlW2hxUv7H29c-kasboCncCQ7Ck/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                                <i class="fontGrande bx bxs-file-pdf"></i>
+                                                                LAB M107 (PA)
                                                             </div>
                                                         </a>
                                                     </div>
@@ -81,7 +117,7 @@
                                                         <a href="https://drive.google.com/file/d/1sVm9in1qxgm0yX7XsOoC88aOfkoY6WTF/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                LAB M202 MAC
+                                                                LAB M202 MAC (PA)
                                                             </div>
                                                         </a>
                                                     </div>
@@ -93,7 +129,7 @@
                                                         <a href="https://drive.google.com/file/d/1FeGSzgdvU0HMswrDjfQHEBgKK4ifC7qd/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                LAB M203 PC
+                                                                LAB M203 PC (PA)
                                                             </div>
                                                         </a>
                                                     </div>
@@ -105,7 +141,7 @@
                                                         <a href="https://drive.google.com/file/d/1wKP-rE1Lf1wYTDF70gTYFCjOdfk_a23F/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                LAB M204 MAC
+                                                                LAB M204 MAC (PA)
                                                             </div>
                                                         </a>
                                                     </div>
@@ -117,7 +153,7 @@
                                                         <a href="https://drive.google.com/file/d/1te5j_gThau0eJ5XbRBjBBcCFP_YnJlB-/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                LAB M208 MAC
+                                                                LAB M208 MAC (PA)
                                                             </div>
                                                         </a>
                                                     </div>
@@ -129,7 +165,55 @@
                                                         <a href="https://drive.google.com/file/d/1jDgRGzD3sHzJ5wJG2_UaBmH56bUv1Q58/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                LABORATORIO BITMAP MAC
+                                                                LABORATORIO BITMAP MAC (PA)
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/1yYjuwbaebiFTSRRJIinXMIFaHL8OT8bA/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                                <i class="fontGrande bx bxs-file-pdf"></i>
+                                                                M101 (PB)
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/1WQf6vJ4lsB8nEVTTY_ULExx9u7ZaqyAP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                                <i class="fontGrande bx bxs-file-pdf"></i>
+                                                                M103 (PB)
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/1S6aFZvhlOQ1TRp9o2t9Q5vsZ9A3C_8ig/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                                <i class="fontGrande bx bxs-file-pdf"></i>
+                                                                M104 (PB)
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/1yAEx8ttSsCU483Lo327t86so9_LUBo1U/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                                <i class="fontGrande bx bxs-file-pdf"></i>
+                                                                M105 (PB)
                                                             </div>
                                                         </a>
                                                     </div>
@@ -141,7 +225,7 @@
                                                         <a href="https://drive.google.com/file/d/1d-M3WlhoyF0_zpMi0YHefvTHuTRZtMXk/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                M201
+                                                                M201 (PA)
                                                             </div>
                                                         </a>
                                                     </div>
@@ -153,7 +237,7 @@
                                                         <a href="https://drive.google.com/file/d/1PM2C4zJHjkeZ9ZKFspVg2twEKKy2pa8s/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                M205
+                                                                M205 (PA)
                                                             </div>
                                                         </a>
                                                     </div>
@@ -165,7 +249,7 @@
                                                         <a href="https://drive.google.com/file/d/10pVqdyzZFtPErUR1xc4wiZV3T7nRnnHR/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                M206
+                                                                M206 (PA)
                                                             </div>
                                                         </a>
                                                     </div>
@@ -177,7 +261,7 @@
                                                         <a href="https://drive.google.com/file/d/1tWQ5960FPgBOuF4khMHiANnEf5L_Liee/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                M207
+                                                                M207 (PA)
                                                             </div>
                                                         </a>
                                                     </div>
@@ -189,7 +273,7 @@
                                                         <a href="https://drive.google.com/file/d/1Ig-l0R7J4y3n7vnWjXrADR4NPyNgeUke/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                M209
+                                                                M209 (PA)
                                                             </div>
                                                         </a>
                                                     </div>
@@ -201,7 +285,7 @@
                                                         <a href="https://drive.google.com/file/d/1uCHSJ3VQrkZR75GVK8FJ1nIie31fXF3O/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                M210
+                                                                M210 (PA)
                                                             </div>
                                                         </a>
                                                     </div>
@@ -213,7 +297,7 @@
                                                         <a href="https://drive.google.com/file/d/1IjWi6dQs9PWKuxQdfZTuhyUOsMpfweXs/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                M211
+                                                                M211 (PA)
                                                             </div>
                                                         </a>
                                                     </div>
