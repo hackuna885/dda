@@ -4,7 +4,7 @@
                                 
                                 <h1 class="py-3 text-center">Horarios de Grupo 2024-3</h1>
                                 <p class="py-3 text-center">
-                                    Actualización 30/08/2024 20:26 p.m.
+                                    Actualización 04/09/2024 23:20 p.m.
                                 </p>
                                 <div class="row">
                                     <div class="col-md-6 col-12">

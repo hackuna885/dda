@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">Horario de Aulas y Laboratorios 2024-3</h1>
                             <p class="py-3 text-center">
-                                Actualización 01/09/2024 19:20 p.m.
+                                Actualización 04/09/2024 23:20 p.m.
                             </p>
                             <div class="row">
 
